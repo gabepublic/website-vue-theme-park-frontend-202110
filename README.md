@@ -56,7 +56,8 @@ $ npm run serve
 
 ## TROUBLESHOOTING
 
-- Error when using nodejs version 18.12.*
+- Error when using nodejs version `18.12.*`
+  Source: https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/
 ```
 $ npm run serve
 
