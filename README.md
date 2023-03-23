@@ -32,6 +32,27 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## RUN
+```
+$ npm run serve
+
+> innovator-island-frontend@1.0.0 serve
+> vue-cli-service serve
+
+ INFO  Starting development server...
+98% after emitting CopyPlugin
+
+ DONE  Compiled successfully in 116355ms                                                                                                        10:43:24 PM
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://172.19.183.38:8080/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+
+```
+
 
 ## TROUBLESHOOTING
 
